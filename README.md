@@ -1,4 +1,4 @@
-# Unity_-ANDROID-Drag_n_Drop-Swipe
+# Unity_ANDROID-Drag_n_Drop-Swipe
 ### Unity Version
 * Current: 2022.3.27f1
 
